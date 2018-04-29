@@ -1,0 +1,10 @@
+ANIMATION
+perso 1:
+idle
+walk
+dash
+kick
+punch
+jump
+hit
+dead
